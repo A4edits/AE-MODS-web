@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+sushilan2.0+WA+Bot+repo;Created+by+A4edits+follow+at+instagram;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+sushilan2+WA+Bot+repo;Created+by+A4edits+follow+at+instagram;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -9,11 +9,11 @@
 <img src="https://media.giphy.com/media/QoXw903mHLu4mqPfLd/giphy.gif?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/A4edits"><img title="Author" src="https://img.shields.io/badge/Author-a4edits-A4edits/sushilan2.0?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/A4edits"><img title="Author" src="https://img.shields.io/badge/Author-a4edits-A4edits/sushilan2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/A4edits">sushilan2.0</a> to make it public
+Project created by <a href="https://github.com/A4edits">sushilan2</a> to make it public
     <br>
        | © |
         Reserved |
@@ -30,7 +30,7 @@ https://youtu.be/fd0KPblop-k
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A4edits/sushilan2.0) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A4edits/sushilan2) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -39,8 +39,8 @@ https://youtu.be/fd0KPblop-k
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/A4edits/sushilan2.0
-$ cd sushilan2.0
+$ git clone https://github.com/A4edits/sushilan2
+$ cd sushilan2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -48,8 +48,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/A4edits/sushilan2.0
-$ cd sushilan2.0
+$ git clone https://github.com/A4edits/sushilan2
+$ cd sushilan2
 $ npm i
 $ node julie.js
 ```
@@ -85,7 +85,7 @@ Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
-Thank you for choosing sushilan2.0
+Thank you for choosing sushilan2
 ```
 
 ## Developers
