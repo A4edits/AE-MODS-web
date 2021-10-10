@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg";
+    r_text[0] = "https://www.linkpicture.com/q/48-729-752-303-20211011_002340.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Amalser 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 SUSHILAN2.0 𝐛𝐨𝐭.
   
 *ẉa.me/➳Setvar*
 ■□■□■□■□■□■□■□■□■□■□
@@ -92,13 +92,15 @@ All setvars are
 
      *happy using Amalser bot ❣️*
 
-*Editing And Devaloper : Amal -Amalser*
+*Editing And Devaloper : Ali -A4edits*
 
 *Erorr Fixing : Farhan -Julie Mwol 💌*
 
 *Supporting : Afnan -Pinky 💌*
 
 *User Support : Adhithhari ✨️*
+
+*follow the owner in insta : https://instagram.com/a4_edite?utm_medium=copy_link*
 
       ═════💢💢═════
 `}) 
