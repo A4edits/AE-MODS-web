@@ -1,6 +1,9 @@
 <div align="center">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+sushilan2+WA+Bot+repo;Created+by+A4edits+follow+at+instagram;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+#### TOTAL REPO VIEWS📍
+
+![Visitor Count](https://profile-counter.glitch.me/A4dits/count.svg)
 
  </a>
 </p>
@@ -24,16 +27,23 @@ Project created by <a href="https://github.com/A4edits">sushilan2</a> to make it
 <div align="center"> 
 
 
-## Youtube link Watch full video and findout password in this video 👇
+## PASSWORD IS ⬇️⬇️
 
-https://youtu.be/fd0KPblop-k
+## afamk
 
   ### Simple Method
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A4edits/sushilan2) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
-  
+
+
+
+
+
+
+
+
 ### The Hard Method
 ```js
 GET QR
@@ -68,6 +78,13 @@ $ node julie.js
 <a href="https://github.com/A4edits/sushilan2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A4edits/sushilan2?color=blue&style=flat-square"></a>
 <a href="https://github.com/A4edits/sushilan2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A4edits/sushilan2?label=Watchers&color=blue&style=flat-square"></a>
 </p>
+<p align="center">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A4edits&show_icons=true&theme=dark&locale=en" alt="A4edits" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=A4edits&theme=dark" alt="A4edits" /></p>
+
+</p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -85,8 +102,28 @@ Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
-Thank you for choosing sushilan2
+ 
+By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
+
+sushilan2.0 or we are not responsible for your account, 
+
+This bot is intended for the purpose of having fun with some fun commands 
+
+and group management with some helpfull commands.
+
+If  you ended up spamming groups, getting reported left and right, 
+
+and you ended up in being fight with WhatsApp
+
+and at the end WhatsApp Team deleted your account. DON'T BLAME US.
+
+No personal support will be provided / We won't spoon feed you. 
+
+If you need help
+
+you can contact 👇🏻👇🏻 
 ```
+**[![A4edits](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919967413665?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
