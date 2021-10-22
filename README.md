@@ -57,7 +57,7 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://github.com/A4edits/sushilan2">
     
 <a href="https://github.com/A4edits/followers">
 <img src="https://img.shields.io/github/repo-size/A4edits/sushilan2?color=green&label=Repo%20total%20size&style=plastic">
