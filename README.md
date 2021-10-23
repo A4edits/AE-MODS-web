@@ -23,6 +23,14 @@ Project created by <a href="https://github.com/A4edits">sushilan2</a> to make it
         Reserved |
     <br> 
 </p>
+<div align="center">
+ 
+- [x] Aco chatbot
+- [x] sushilan v2
+- [x] you can add bgm😌
+
+<div align="center">
+<details>
     <summary>⏬<b>CLICK HERE FOR MORE INFO⏬</b></summary>
 
 ## Setup
