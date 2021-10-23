@@ -23,6 +23,7 @@ Project created by <a href="https://github.com/A4edits">sushilan2</a> to make it
         Reserved |
     <br> 
 </p>
+    <summary>⏬<b>CLICK HERE FOR MORE INFO⏬</b></summary>
 
 ## Setup
 <div align="center"> 
