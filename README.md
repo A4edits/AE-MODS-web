@@ -1,3 +1,4 @@
+<a href="https://tinyurl.com/yjhned3h"><img src="https://fontmeme.com/permalink/211023/2285b1427d8487f4cfd3b7eddf5fffff.png" alt="google-font" border="0"></a>
 <div align="center">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+sushilan2+WA+Bot+repo;Created+by+A4edits+follow+at+instagram;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
