@@ -61,7 +61,7 @@
             "value": "false"
         },
               "BGM_DURATION": {
-            "description": "FUNY BGM DURATION  codded by SAIDALI",
+            "description": "FUNY BGM DURATION  codded by A4edits😹❌",
             "required": false,
             "value": "39999600"
         },
@@ -202,9 +202,18 @@
             "required": false,
             "value": "default"
         },
-        "NO_ONLINE": {
-            "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
+        "owner name": {
+            "description": "type owner name💖",
             "required": false,
+            "value": "default"
+        },
+
+        "NO_ONLINE": {
+
+            "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
+
+            "required": false,
+
             "value": "true"
         }
     },
